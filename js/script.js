@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const imagenesCarrusel = [
         { url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlZ5gRXIyuShBNckMvOv21qTzyRMGbwoZMSliSSFRbTHZfBm_FZY1t5QxvqodJoAzdI_A6ybgzF7ISZ46XkEyN7DVjoqFO7HY8oLIwgJT0CFm1kFNoP3ynGsKjq3ZcUzF7Lt2PyLcQxwk/s1600/DSC_0073+copia.jpg", caption: "Procesión del Señor de Gualamita" },
-        { url: "https://scontent.flim4-3.fna.fbcdn.net/v/t39.30808-6/480879824_627248619896802_3814178617956486153_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x825&ctp=s1080x825&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=F9SJelUc6NwQ7kNvwF2EHWd&_nc_oc=AdrftPMzycdFlq_ECAUHkOrB6_cJDZmBvOxf1tajFLQDxTHStGVt4VMkjh3zWrw-TXk&_nc_zt=23&_nc_ht=scontent.flim4-3.fna&_nc_gid=YCAU6RrYww4oIi8RCWs3DQ&_nc_ss=7b289&oh=00_Af91OMQHtveP-BiII_0lrkuRjsp8dT-xZRmaGAcSV_Wn_g&oe=6A2970BD", caption: "Fiesta Patronal" },
-        { url: "https://scontent.flim4-2.fna.fbcdn.net/v/t39.30808-6/529206679_737115532503385_4878801762365333273_n.jpg?stp=dst-jpg_tt6&cstp=mx1266x1818&ctp=s1266x1818&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ItVvzvuJNf8Q7kNvwEUX654&_nc_oc=AdoaK1wvqgb3GOxpcw4glp0MTWkNO8ad_dym_YE-8CSeTJ3QIcuH-2EaxA8O1SJ2KYg&_nc_zt=23&_nc_ht=scontent.flim4-2.fna&_nc_gid=8vqzsUjvN0Xen3oo3lgKgw&_nc_ss=7b289&oh=00_Af85W9cIZk13sJntzglPZQsfHIqXN9UEK6nz0upeUsWmng&oe=6A295BAA", caption: "Danzas Tradicionales" },
+        { url: "https://lh3.googleusercontent.com/d/15wT_SCIm53iUMrAxsSQUGk62VJCq1J8R", caption: "Fiesta Patronal" },
+        { url: "https://lh3.googleusercontent.com/d/1CQkd_w0j3mAcs5WOuBLbw89Dmujtd0pR", caption: "Danzas Tradicionales" },
         { url: "https://i.ytimg.com/vi/tSIGVvoeTKM/maxresdefault.jpg", caption: "Festividad en Lámud" },
         { url: "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=565053", caption: "Paisaje de Lámud" },
         { url: "https://consultasenlinea.mincetur.gob.pe/fichaInventario/foto.aspx?cod=564780", caption: "Cristo Redentor" },
